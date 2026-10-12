@@ -1,0 +1,155 @@
+.login{
+background-color: brown;
+padding: 15%;
+color: aliceblue;
+    
+}
+.link a{
+  font-size: 35px;
+  color:brown;
+  text-decoration: none;
+  background-color:black ;
+  border-radius: 15%;
+}
+.link {
+    padding: 0%;
+    position :absolute;
+    top: 2%;
+    left: 2%;
+  }
+.link a:hover{
+  background-color:white;
+}
+.Atlas{
+  position:absolute;
+  top: 15%;
+  right:10% ;
+  font-size: larger;
+  font-size: 70px;
+  padding: 0%;
+  margin:0px;
+  font-style:oblique;
+  padding: 0%;
+}
+.tarikh{
+  color: black;
+  font-size:larger;
+  position: absolute;
+  top: 45%;
+  left: 2%;
+  font-size: 40px;
+}
+.location{
+  color: black;
+  font-size: larger;
+  position: absolute;
+  top: 45%;
+  right: 2%;
+  font-size: 40px;
+}
+.button button{
+  position: absolute;
+  top: 80%;
+  left: 45%;
+  font-size: 200%;
+  border-radius: 20%;
+  color: whitesmoke;
+  background-color: brown;
+}
+.button :hover{
+  background-color: black;
+}
+footer{
+  color: azure;
+  background-color: black;
+padding: 25px 680px;
+  position: absolute;
+  top: 140%;
+  left: 0%;
+}
+.day1{
+  background-color: wheat;
+  border-radius: 5%;
+}
+.day2{
+  background-color: wheat;
+}
+.day3{
+   background-color: wheat;
+}
+.day4{
+   background-color: wheat;
+}
+.day5{
+   background-color: wheat
+}
+.day6{
+   background-color: wheat
+}
+.jour2{
+  position: absolute;
+font-style: italic;
+background-color:gray;
+padding: 1.5%;
+top: 20%;
+font-size: 250%;
+left: 52%;
+border-radius: 1.5%;
+}
+.form {
+  position: absolute;
+font-style: italic;
+background-color:gray;
+padding: 1.5%;
+top: 20%;
+font-size: 250%;
+border-radius: 1.5%;
+}
+.jour1{
+  background-color: wheat;
+  width: 22%;
+}
+.card .card1{
+  background-color: grey;
+}
+.card .card2{
+  background-color: gray;
+  
+}
+.card .card3{
+  background-color: gray;
+}
+.cards2 .card4{
+  background-color: gray;
+}
+.cards2 .card5{
+  background-color: gray;
+}
+.cards2 .card6{
+  background-color: gray;
+}
+.card{
+  display:inline-flex;
+  gap: 20%;
+  position: absolute;
+  top: 15%;
+  margin-left: 10%;
+
+}
+.cards2 {
+  display: inline-flex;
+  gap: 20%;
+  position: absolute;
+  top: 70%;
+  margin-left: 10%;
+}
+.p .crads2 , p{
+  margin-left: 5%;
+}
+.p .crad , p{
+  margin-left: 5%;
+}
+.login2{
+  align-items: center;
+  
+}
